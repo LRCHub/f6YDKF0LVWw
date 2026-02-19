@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "POP!",
+  "base_artist": "NAYEON",
+  "createdAt": "2026-02-19T05:55:18.925161Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pop In My Step",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Pop_In_My_Step_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pop in My Step",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_Pop_in_My_Step_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mine - POP Mix",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/03_Mine_-_POP_Mix_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mine (POP Mix)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/04_Mine_(POP_Mix)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pop a Top",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/05_Pop_a_Top_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pop a Top",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/06_Pop_a_Top_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pop a Top",
+      "artist": "Jim Ed Brown",
+      "has_synced": false,
+      "path": "select/07_Pop_a_Top_Jim_Ed_Brown.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pop a Top",
+      "artist": "Jim Ed Brown & The Browns",
+      "has_synced": false,
+      "path": "select/08_Pop_a_Top_Jim_Ed_Brown_&_The_Browns.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Chocolate Love (Retro Pop Version)",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/09_Chocolate_Love_(Retro_Pop_Version)_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Chocolate Love (Retro Pop Ver.)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/10_Chocolate_Love_(Retro_Pop_Ver.)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pop Off!",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/11_Pop_Off!_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Pop Off! (Instrumental)",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/12_Pop_Off!_(Instrumental)_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Pop Style",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/13_Pop_Style_Drake.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Pop Style",
+      "artist": "Drake feat. The Throne",
+      "has_synced": true,
+      "path": "select/14_Pop_Style_Drake_feat._The_Throne.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Pop Style (feat. The Throne)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/15_Pop_Style_(feat._The_Throne)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dancing With the Big Boys (with Iggy Pop)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/16_Dancing_With_the_Big_Boys_(with_Iggy_Pop)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Pop That Pussy",
+      "artist": "The 2 Live Crew",
+      "has_synced": true,
+      "path": "select/17_Pop_That_Pussy_The_2_Live_Crew.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "POP!",
+      "artist": "NAYEON",
+      "has_synced": false,
+      "path": "select/pl_01_POP!_NAYEON.txt"
+    }
+  ]
+}
